@@ -13,17 +13,6 @@ A minimal **Chrome Extension** built with [Manifest V3](https://developer.chrome
 
 ---
 
-## 🗂️ Project Structure
-
-hello-world-extension/
-├── manifest.json # Extension metadata and permissions
-├── popup.html # UI for the popup
-├── popup.js # JS logic for the popup
-└── icon.png # Icon for the extension
-
-
----
-
 ## 🚀 Getting Started
 
 ### 🧰 Prerequisites
